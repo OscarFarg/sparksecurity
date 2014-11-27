@@ -2,7 +2,7 @@
 
 Tiny security library for SparkJava.
 
-# Example
+## Example
 
 To use the library add the following lines:
 
@@ -29,5 +29,5 @@ public class SimpleSecurityHandler implements SecurityHandler {
 }
 ```
 
-# Caution
+## Caution
 The code has not been tested.
